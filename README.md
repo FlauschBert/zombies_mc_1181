@@ -42,15 +42,15 @@ Back in MultiMC you go to "Edit instance" and click the "Install Fabric" on the 
 
 ## Installation of the mods
 
-Copy the `mods` folder into the directory you choose above for the fabric loader installation.
+Copy the `mods` folder from the archive downloaded above into the directory you chose above for the fabric loader installation.
 
 ## Installation of the shader pack(s)
 
-Copy the `shaderpacks` folder into the directory you choose above for the fabric loader installation.
+Copy the `shaderpacks` folder from the archive downloaded above into the directory you chose above for the fabric loader installation.
 
 ## Installation of the resource pack(s)
 
-Copy the `resourcepacks` folder into the directory you choose above for the fabric loader installation.
+Copy the `resourcepacks` folder from the archive downloaded above into the directory you chose above for the fabric loader installation.
 
 ## Activation of the shader pack
 
