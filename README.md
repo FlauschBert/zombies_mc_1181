@@ -71,3 +71,7 @@ Set the mouse sensitivity to 140% for instance:
 ![](images/sensitivity.png)  
 
 Hit "Done" once you selected the sensitivity.
+
+## Using the world map / mini map
+
+The mini map on the top left can be configured in many ways. Hit the `m` key in game and click on the gear wheel button for the settings. 
