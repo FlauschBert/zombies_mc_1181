@@ -55,19 +55,19 @@ Copy the `resourcepacks` folder from the archive downloaded above into the direc
 ## Activation of the shader pack
 
 Start the game and choose the "Complementary shader pack" for the iris mod:  
-![](C:\Users\steam\CLionProjects\zombies_mc_1181\images\start.png)  
-![](C:\Users\steam\CLionProjects\zombies_mc_1181\images\options.png)  
-![](C:\Users\steam\CLionProjects\zombies_mc_1181\images\video.png)  
-![](C:\Users\steam\CLionProjects\zombies_mc_1181\images\iris.png)  
-![](C:\Users\steam\CLionProjects\zombies_mc_1181\images\shaderpack.png)
+![](images/start.png)  
+![](images/options.png)  
+![](images/video.png)  
+![](images/iris.png)  
+![](images/shaderpack.png)
 
 Hit "Apply" or "Done" once you selected the shader pack.
 
 ## Improve mouse sensitivity
 
 Set the mouse sensitivity to 140% for instance:  
-![](C:\Users\steam\CLionProjects\zombies_mc_1181\images\controls.png)  
-![](C:\Users\steam\CLionProjects\zombies_mc_1181\images\mouse.png)  
-![](C:\Users\steam\CLionProjects\zombies_mc_1181\images\sensitivity.png)  
+![](images/controls.png)  
+![](images/mouse.png)  
+![](images/sensitivity.png)  
 
 Hit "Done" once you selected the sensitivity.
