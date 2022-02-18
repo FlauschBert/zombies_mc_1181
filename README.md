@@ -63,6 +63,15 @@ Start the game and choose the "Complementary shader pack" for the iris mod:
 
 Hit "Apply" or "Done" once you selected the shader pack.
 
+## Activation of the resource pack
+
+Select the resource pack:  
+![](images/options.png)  
+![](images/resourcepacks.png)
+![](images/selectresourcepack.png)
+
+Click the play symbol to get the resource pack to the right, the selected side. Hit "Done".
+
 ## Improve mouse sensitivity
 
 Set the mouse sensitivity to 140% for instance:  
