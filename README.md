@@ -52,6 +52,20 @@ Copy the `shaderpacks` folder from the archive downloaded above into the directo
 
 Copy the `resourcepacks` folder from the archive downloaded above into the directory you chose above for the fabric loader installation.
 
+## Setting up java
+
+Normally all should be fine with the settings of the java virtual machine set for the standard java minecraft installation. But in the case of shaders and especially if more mods are used the amount of memory used for the java virtual machine should be increased:  
+![](images/installation.png)  
+![](images/more_options.png)  
+![](images/jvm_arguments.png)
+
+Choose for instance `-Xmx4G` instead of the old value to allow up to 4 GB to be used by the java virtual machine.
+
+### MultiMC
+
+In MultiMC you can do so on the "Java" tab:  
+![](images/multimc_java_options.png)
+
 ## Activation of the shader pack
 
 Start the game and choose the "Complementary shader pack" for the iris mod:  
